@@ -82,7 +82,6 @@ function spotifySong(argument) {
 };
 
 function movie(argument) {
-    console.log("hi");
 
     var movieTitle;
 
